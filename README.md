@@ -4,4 +4,4 @@ At some point a year ago I was submitting a manuscript to European Sociogical Re
 
 This is still much work in progress. When installing, Zotero complaints it is not a valid style file and it still requires some hand editing to get the reference list right. So any contributions are welcome!
 
-Official reference guidelines to ESR: https://academic.oup.com/esr/pages/General_Instructions
+The official reference guidelines of ESR: https://academic.oup.com/esr/pages/General_Instructions
